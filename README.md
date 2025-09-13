@@ -3,5 +3,5 @@ Let's explore customized set of basic computer skills that serve as a complete s
 1) Introduction to Cybersecurity: Offensive Security Intro,  Defensive Security Intro and Cyber Careers
 2) Network Fundamentals: What is Networking ?, Intro to LAN, OSI Model, Packets & Frames and Extending Your Network
 3) How the Web Works: DNS in Detail, HTTP in Detail, How websites Work and Putting it all together 
-4) Linux Fundamentals: Linux Fundametal Part 1, Linux Fundamental Part 2 and Linux Fundamental Part 3
-5) Windows Fundamentals: Windows Fundamental 1, Windows Fundamental 2 and Windows Fundamental 3
+4) Linux Fundamentals: Linux Fundametals Part 1, Linux Fundamentals Part 2 and Linux Fundamentals Part 3
+5) Windows Fundamentals: Windows Fundamentals 1, Windows Fundamentals 2 and Windows Fundamentals 3
